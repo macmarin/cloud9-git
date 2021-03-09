@@ -5,8 +5,8 @@ class ApplicationController < ActionController::Base
     render html: "¡Hola, mundo!"
   end
 
-  def goodbye
-    render html: "goodbye, world!"
+  def macmarin
+    render html: "Hello, macmarin!　初デプロイ！"
   end
 
 end
